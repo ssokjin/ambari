@@ -23,4 +23,11 @@
       <reponame>bigtop</reponame>
     </repo>
   </os>
+  <os family="redhat8">
+    <repo>
+      <baseurl>http://repos.bigtop.apache.org/releases/3.1.1/rockylinux/8/$basearch</baseurl>
+      <repoid>BIGTOP-3.1.1</repoid>
+      <reponame>bigtop</reponame>
+    </repo>
+  </os>
 </reposinfo>
